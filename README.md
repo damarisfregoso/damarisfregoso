@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Software Engineer with a strong passion for Front-End Web Development. I bring a keen eye for detail, exceptional leadership skills, and the ability to excel in high-stakes environments. My career spans diverse industries including healthcare, logistics, and customer service, where I’ve thrived in collaborative settings, built trust, and guided teams to deliver high-quality solutions.
+I'm a Software Engineer with a strong passion for Front-End Web Development.  I bring a keen eye for detail, exceptional leadership skills, and the ability to excel in high-stakes environments.  My career spans diverse industries including healthcare, logistics, and customer service, where I’ve thrived in collaborative settings, built trust, and guided teams to deliver high-quality solutions.
 
 🔧 **Technical Skills:**
 
@@ -40,7 +40,7 @@ I'm a Software Engineer with a strong passion for Front-End Web Development. I b
 
 [![LinkedIn](https://img.shields.io/badge/Damaris-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damaris-fregoso/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:damaris.fregoso22@gmail.com)
-- **Portfolio:** [My Portfolio](https://damarisfregoso-f2fa54c2c997.herokuapp.com/)
+- **My Portfolio:** [Damaris Fregoso Portfolio](https://damarisfregoso-f2fa54c2c997.herokuapp.com/)
 
 💬 **Feel free to ask me about:**
 
